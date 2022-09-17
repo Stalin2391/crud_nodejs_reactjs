@@ -1,1 +1,1 @@
-Using React js Front-end, Node js Back-end Crud, and Mysql for DB Setup 
+CRUD application with ReactJS, NodeJS, Express, and MySQL.
