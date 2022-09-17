@@ -1,1 +1,1 @@
-CRUD application with ReactJS, NodeJS, Express, and MySQL.
+A Simple CRUD application with ReactJS, NodeJS, Express, and MySQL.
